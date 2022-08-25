@@ -1,0 +1,2 @@
+This information came from a text file using  Ajax technology. 
+(Author: Mohammad Majibur Rahman)
